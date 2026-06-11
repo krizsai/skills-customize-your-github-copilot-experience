@@ -77,6 +77,30 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "fastapi-deploy-docker",
+      "title": "Containerize and Deploy a FastAPI App with Docker",
+      "description": "Containerize a FastAPI app with Docker and add a CI workflow to build the image.",
+      "path": "assignments/fastapi-deploy-docker",
+      "dueDate": "2026-06-18",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "main.py",
+          "type": "python"
+        },
+        {
+          "name": "Dockerfile",
+          "file": "Dockerfile",
+          "type": "txt"
+        },
+        {
+          "name": "Requirements",
+          "file": "requirements.txt",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }
